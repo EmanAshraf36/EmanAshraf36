@@ -7,15 +7,15 @@
 <h1 align="center">Hi , I'm Eman<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-  <a href="https://github.com/ChaitanyaLonarkar"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=14F774&random=false&width=435&lines=Backend+Developer+%F0%9F%98%8A;Full+Stack+Developer+%F0%9F%98%81%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/EmanAshraf36"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=14F774&random=false&width=435&lines=Backend+Developer+%F0%9F%98%8A;Full+Stack+Developer+%F0%9F%98%81%20&center=true&width=500&height=50"></a>
 </p>
 
 <h3 align="center">
-I'm a Back End Developer based in Egypt 🙏, I am passionate about Python, coding, and web technologies❤️. 
+I'm a Back End Developer based in Egypt 🙏, I am passionate about Python, coding, and web technologies ❤️. 
 	I like to Solve problems and explore different algorithms. It helps me learn a lot and grow as a developer and as a person.
 </h3>
  <br />
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="900" />
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="600" height="350" />
 
 
 - 🔭 I’m currently learning and working on Django, DRF, FastAPI, flask and ReactJS.
