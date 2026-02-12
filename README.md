@@ -15,8 +15,9 @@ I'm a Back End Developer based in Egypt 🙏, I am passionate about Python, codi
 	I like to Solve problems and explore different algorithms. It helps me learn a lot and grow as a developer and as a person.
 </h3>
  <br />
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="600" height="350" />
-
+</div>
 
 - 🔭 I’m currently learning and working on Django, DRF, FastAPI, flask and ReactJS.
 
@@ -26,8 +27,9 @@ I'm a Back End Developer based in Egypt 🙏, I am passionate about Python, codi
 - 📫 How to reach me **emanashraff7@gmail.com**
 
 - ⚡ Fun fact **I love solving jigsaw puzzles—great practice for debugging my code under pressure!**
-<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="1920" />
-
+<div align ="center">
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="600" height="350" />
+</div>
   
 <div align="center">
 <h1 >Languages and Tools 💻</h1>
@@ -116,8 +118,9 @@ I'm a Back End Developer based in Egypt 🙏, I am passionate about Python, codi
 ![Matplotlib](https://img.shields.io/badge/matplotlib-11557C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="1920" />
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="600" height="350" />
+</div>
 
 <h1 align="center">Let's Connect</h1>
 <p align="center">
@@ -126,9 +129,9 @@ I'm a Back End Developer based in Egypt 🙏, I am passionate about Python, codi
 	<a href="https://github.com/emanashraf36"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https://in.linkedin.com/in/Emanashraf36"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="1920" />
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="600" height="350" />
+</div>
 
 <br>
 <div  align="center" >
